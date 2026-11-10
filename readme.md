@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Notnurb (Alex Brunton)
-### A Passionate AGI Scientist & Full Stack Web Developer 🚀
+### A Passionate AI Scientist & Full Stack Web Developer 🚀
 
 <p align="center">
   <a href="https://twitter.com/" target="_blank">
@@ -24,7 +24,7 @@
         <li>🌱 I’m currently learning <strong>PureScript & Advanced Python</strong></li>
         <li>👯 I’m looking to collaborate on <strong><a href="https://github.com/openclaw/openclaw">OpenClaw</a></strong></li>
         <li>🤝 I’m looking for help with <strong><a href="https://trippletspark.com">Tripplet</a></strong></li>
-        <li>⚡ Fun fact: <strong>Tripplet is good, go try it.</strong></li>
+        <li>⚡ Fun fact: <strong>This shitty readme was generated with ai</strong></li>
       </ul>
     </td>
     <td width="50%">
